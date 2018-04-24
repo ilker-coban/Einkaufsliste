@@ -1,2 +1,17 @@
-# Einkaufsliste
-Repo für das 4. Aufgabenblatt
+#Lebenslauf
+
+
+##Persönliche Daten
+
+Name :          Ilker Coban 
+ 
+Geburtsdatum :  07.08.1994
+
+##Akademischer Werdegang
+
+*Schule*:       Grundschule Owen 
+ 
+*Studium*:      **HFU Furtwangen**
+
+
+
